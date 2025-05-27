@@ -38,4 +38,4 @@ Real-time video mask detection
 
 Improved accuracy with data augmentation
 
-Multi-class detection (mask, no mask, improper mask)
+Multi-class detection (mask, no mask)
